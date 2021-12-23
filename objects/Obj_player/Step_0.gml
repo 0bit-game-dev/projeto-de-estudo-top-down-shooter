@@ -1,0 +1,7 @@
+andando()
+atirando()
+invencivelp()
+colidindo()
+
+
+
