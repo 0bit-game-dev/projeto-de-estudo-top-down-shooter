@@ -14,6 +14,7 @@
     {"id":{"name":"Spr_impacto","path":"sprites/Spr_impacto/Spr_impacto.yy",},"order":7,},
     {"id":{"name":"Spr_tiro","path":"sprites/Spr_tiro/Spr_tiro.yy",},"order":2,},
     {"id":{"name":"Spr_ovo","path":"sprites/Spr_ovo/Spr_ovo.yy",},"order":9,},
+    {"id":{"name":"Sprite12","path":"sprites/Sprite12/Sprite12.yy",},"order":11,},
     {"id":{"name":"Obj_pedacos","path":"objects/Obj_pedacos/Obj_pedacos.yy",},"order":3,},
     {"id":{"name":"Spr_rastro","path":"sprites/Spr_rastro/Spr_rastro.yy",},"order":6,},
     {"id":{"name":"Spr_background","path":"sprites/Spr_background/Spr_background.yy",},"order":10,},
